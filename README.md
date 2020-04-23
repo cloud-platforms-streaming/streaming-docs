@@ -50,3 +50,8 @@ You should be using a setting of veryfast, superfast, or ultrafast.
 
 ![Settings -> Output -> Streaming](img/settings-output-streaming.png)
 
+TODO:
+Sound settings
+Streaming key
+Scenes
+Sources
