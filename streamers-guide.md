@@ -51,7 +51,7 @@ TODO: open source this guide or some version of it
 
 [OBS](https://obsproject.com/), short for Open Broadcaster Software, is an open source project designed to making streaming easier and more professional looking. OBS is the interface to streaming services like Twitch, YouTube, etc. There are a number of useful resources across the web to help you get up and running with OBS or one of its forks. We'll provide the best here along with specific configuration settings that are needed.
 
-All assets that are consumed by OBS for the stream are in the 
+All assets that are consumed by OBS for the stream are in the [**streaming-tools**](https://github.com/cloud-platforms-streaming/streaming-tools) repo
 
 ### OBS Resources
 
