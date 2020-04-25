@@ -75,7 +75,8 @@ You should be using a setting of veryfast, superfast, or ultrafast. The higher t
 ![Settings -> Output -> Streaming](img/settings-output-streaming.png)
 
 TODO:
-Sound settings
-Streaming key
-Scenes
-Add more resources
+
+* Sound settings?
+* Streaming key acquisition
+* Scenes and more assets (D. Russo helping with animations)
+* Add more resources, hints, and refined settings
