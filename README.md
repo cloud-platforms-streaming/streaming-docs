@@ -1,22 +1,41 @@
 # Streaming Docs
 
-A great part about Twitch and other streaming platforms, is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a conversation, streaming, etc. things get complicated.
+A great part about [Twitch](https://www.twitch.tv/) and other streaming platforms is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a chat, streaming it, adding graphics to the stream, etc. things can get complicated.
 
-Streamers is the term we're using for the folks that are responsible for getting everyone on a call and streaming that out to the internet. Streamers are the folks that will be the ones making sure the stream actually lands on Twitch/YouTube/etc.
+## Personas
 
-There are some requirements though for streaming. In general, the gotchas for streaming are:
+Three main roles need to be played to do a stream. Guests, Producers, and Streamers. In reality, one person can do a stream by themselves. But, we call out these specific personas because they all have some requirements and responsibilities.
 
-## Bandwidth
+### Guests
 
-If you have a lower end upload speed, streaming is possible but 720p and 1080p streams require at least 5 Mbps of bandwidth. Keep in mind, other things on your network contend for this bandwidth. While we don't intend to stream in 4K initially, the bandwidth requirements for broadcasting 4K video is 25 Mbps.
+Congrats! You're the star of the show! You've made it to a league, the size of which is to be determined. We want you to have the best experience possible. We want you to have fun and be the best version of you that you can be. Thank you for joining our stream.
 
-## Equipment
+All we ask is that you be able to join a Zoom call. We'd like you to be on a webcam, using a wired mic (stock Apple EarPods are sufficient), and able to share your screen if you intend to present anything or live code.
 
-Streamers will need to consider how they will both broadcast a stream while participating in it. While this can be done with a powerful enough computer, many folks choose to use two computers to stream and participate. Computer A will be the box from which you speak and present to the audience (via a video teleconferencing solution). This is just like joining any other BlueJeans/Zoom/etc. call.
+That's it! Join us and share your knowledge and experience.
 
-Computer B will be the machine that runs OBS to broadcast the video teleconferencing window to the streaming platforms. This computer should be able to handle the demand of streaming (for example, an Intel i3 is the baseline platform being recommended).
+If you're a regular guest you might want to consider acquiring equipment that we suggest in the [Streaming Guide](streaming-guide.md)
 
-For a detailed list of suggested equipment see the [Streaming Equipment tab in this spreadsheet](https://docs.google.com/spreadsheets/d/1ZoLJQAM6-oCC_5YO1KjM9IeO78mXDegvnDIngTzQzi8/edit?ts=5e95dcd5#gid=1483729067) (Red Hat only). Twitch also has its own [Hardware Recommendations](https://www.twitch.tv/creatorcamp/en/setting-up-your-stream/hardware-recommendations/) if you'd like to compare options.
+### Producers
 
-If your face is on camera, there is a good presentation put together by the brand team that will help you make the most of your appearance. Ideally, you have a decent mic, good lighting, and are wearing Red Hat or neutrally colored clothing: [Webcam Video
-Best practices for presentations](https://docs.google.com/presentation/d/1xnW3hm-jDfwrqma-1j8vzmq4an1mJMk0Y2hQfUkKss4/edit#slide=id.g547716335e_0_260) (Red Hat only).
+"Producers" are the term for the folks that are managing the Twitch channel itself. There are many ways to interact with the audience,  including chat, that are available to the Producers to provide a great experience.
+
+TODO: Document extensions that are added to Twitch
+
+One of the more important things is making sure the stream is adhering to community guidelines and make the experience fun and enjoyable for everyone on the stream.
+
+* [Twitch Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/)
+* [YouTube Policies and Safety](https://www.youtube.com/about/policies/#community-guidelines)
+* [FaceBook Community Standards](https://www.facebook.com/communitystandards/)  
+* [Twitter Rules and policies](https://help.twitter.com/en/rules-and-policies#twitter-rules)
+Summary: Be excellent to everyone.
+
+### Streamers
+
+Streamers are the ones that mux everything together out to the internet. Streamers are the folks that are responsible for getting everyone that's joined a Zoom call, adding in any customizations via [OBS](http://obsproject.com/), and streaming that feed out to the internet.
+
+Streamers are the folks that will be the ones making sure the content lands on Twitch/YouTube/Facebook/Twitter/etc.
+
+There are some requirements though for streaming that are best-maintained separate from this README.md.
+
+[**Streamers Guide**](streamers-guide.md)
