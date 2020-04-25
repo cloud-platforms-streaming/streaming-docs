@@ -12,9 +12,9 @@ If you have a lower end upload speed, streaming is possible but 720p and 1080p s
 
 ## Equipment
 
-Keep in mind; you can stream with a wide variety of devices and hardware. What you have right now as someone who participates in meetings remotely regularly likely has good enough equipment to join in a stream. However, regular streamers will probably be filling a [Guest](README.md#Guests) and/or [Producers](README.md#Producers) role as well.
+Keep in mind; you can stream and participate with a wide variety of devices and hardware. What you have right now as someone who participates in meetings remotely regularly likely has good enough equipment to join in a stream. However, some regular streamers will probably be filling a [Guest](README.md#Guests) and/or [Producers](README.md#Producers) role as well. If you don't have enough compute and video power to pull this off, a two computer set up is suggested.
 
-### Streaming and filling another roll
+### Two computer set up
 
 Streamers will need to consider how they will both broadcast a stream while participating in it (either in Twitch and/or Zoom). While this is possible with a powerful enough setup, many Streamers choose to use two computers; one to stream the OBS feed and the other to participate in the Zoom call/Twitch.
 
