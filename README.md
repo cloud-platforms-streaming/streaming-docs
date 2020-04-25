@@ -27,7 +27,7 @@ One of the more important things is making sure the stream is adhering to commun
 * [Twitch Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/)
 * [YouTube Policies and Safety](https://www.youtube.com/about/policies/#community-guidelines)
 * [FaceBook Community Standards](https://www.facebook.com/communitystandards/)  
-* [Twitter Rules and policies](https://help.twitter.com/en/rules-and-policies#twitter-rules)
+* [Twitter Rules and policies](https://help.twitter.com/en/rules-and-policies#twitter-rules)  
 Summary: Be excellent to everyone.
 
 ### Streamers
