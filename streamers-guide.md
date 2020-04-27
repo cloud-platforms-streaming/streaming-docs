@@ -80,6 +80,8 @@ For those comfortable with photo editing, this might feel a little awkward, but 
 
 You should be using a setting of veryfast, superfast, or ultrafast. The higher the setting the better performance. But, the lower the quality too. This is device-specific; testing is required. "The image may look a bit blockier or pixelated, but you will be able to retain your resolution/fps."
 
+There is also a worthwhile **Tune** option in the Output settings. If you're streaming content, configuring the x264 Tune option to `zerolatency` should help performance.
+
 ![Settings -> Output -> Streaming](img/settings-output-streaming.png)
 
 #### Sound Settings
