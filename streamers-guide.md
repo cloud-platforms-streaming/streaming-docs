@@ -84,7 +84,11 @@ You should be using a setting of veryfast, superfast, or ultrafast. The higher t
 
 #### Sound Settings
 
-TODO: Dependent on setup to an extent too.
+In general, sound quality is the most important part of a livestream. If the sound isn't pleasant and of high-quality, people tune out. Much like radio, silence is bad. When in doubt, talk about whatever plugins are being used by the person showing their screen or ask for some more color around a particular feature or setting.
+
+General OBS sound settings should be set to 48 kHz and Stereo. Some services support a full 5.1 surround sound experience but, unless you intend to use 5.1 channels of audio during your production, keep it in Stereo.
+
+![Settings -> Audio](img/settings-audio.png)
 
 #### Error: `Encoding overloaded! Consider turning down the video settings of using a faster preset.`
 
