@@ -58,6 +58,16 @@ All assets that are consumed by OBS for the stream are in the [**streaming-tools
 * [OBS Forum Resources](https://obsproject.com/forum/resources/)
 * [General Performance And Encoding Issues](https://obsproject.com/wiki/General-Performance-and-Encoding-Issues)
 
+### OBS Scene Creation
+
+#### Cropping
+
+Cropping inputs is something that you'll find yourself doing quite a bit of in OBS as you're building scenes. The "ALT crop" (Option key on Macs) is a great way to get a crop *just right*. When editing a source, hold the ALT (Option on Mac) key and grab any point in the frame to crop it to suit the scene. Once you have your crop just right, it's encouraged that you do a "Fit to Screen" (CTRL/CMD+F) to make sure the crop is the best you can make it.
+
+For those comfortable with photo editing, this might feel a little awkward, but the outcome is similar. You might notice a black box (letterboxing) around your object as you're positioning it. This is due to the resulting image not fitting the aspect ratio of the screen being streamed. Keeping crops at a 16:9 aspect ratio will help with black boxes.   
+
+* [How To CROP, RESIZE And STRETCH In OBS Studio! Easy (YouTube)](https://youtu.be/qEKBaeTJfpc)
+
 ### OBS Settings (aka problems and how to fix them)
 
 Error: `Encoding overloaded! Consider turning down the video settings of using a faster preset.`
