@@ -64,19 +64,17 @@ All assets that are consumed by OBS for the stream are in the [**streaming-tools
 
 Cropping inputs is something that you'll find yourself doing quite a bit of in OBS as you're building scenes. The "ALT crop" (Option key on Macs) is a great way to get a crop *just right*. When editing a source, hold the ALT (Option on Mac) key and grab any point in the frame to crop it to suit the scene. Once you have your crop just right, it's encouraged that you do a "Fit to Screen" (CTRL/CMD+F) to make sure the crop is the best you can make it.
 
-For those comfortable with photo editing, this might feel a little awkward, but the outcome is similar. You might notice a black box (letterboxing) around your object as you're positioning it. This is due to the resulting image not fitting the aspect ratio of the screen being streamed. Keeping crops at a 16:9 aspect ratio will help with black boxes.   
+For those comfortable with photo editing, this might feel a little awkward, but the outcome is similar. You might notice a black box (letterboxing) around your object as you're positioning it. This is due to the resulting image not fitting the aspect ratio of the screen being streamed. Keeping crops at a 16:9 aspect ratio will help with black boxes.
 
 * [How To CROP, RESIZE And STRETCH In OBS Studio! Easy (YouTube)](https://youtu.be/qEKBaeTJfpc)
 
 ### OBS Settings (aka problems and how to fix them)
 
-Error: `Encoding overloaded! Consider turning down the video settings of using a faster preset.`
+#### Video Settings
 
-This is a common error usually related to the stress that video encoding is putting on the system.
+**Broadcasting in 1080p at 30 fps** is the goal. To get that set up, Open Settings, Video. Then make sure the settings are for 1920x1080 and 30 fps.
 
-Downscaling the output resolutions to 720p is the biggest thing that can be done to fix this. Also, reducing the frame rate to 30 fps helps.
-
-![Settings -> Video](img/settings-video-resolution.png)
+![Settings -> Video](img/1080p-settings-video-resolution.png)
 
 #### x264 CPU Usage Preset
 
@@ -84,9 +82,20 @@ You should be using a setting of veryfast, superfast, or ultrafast. The higher t
 
 ![Settings -> Output -> Streaming](img/settings-output-streaming.png)
 
+#### Sound Settings
+
+TODO: Dependent on setup to an extent too.
+
+#### Error: `Encoding overloaded! Consider turning down the video settings of using a faster preset.`
+
+This is a common error usually related to the stress that video encoding is putting on the system.
+
+Downscaling the output resolutions to 720p is the biggest thing that can be done to fix this. This is a huge sacrifice to video quality though. Try to see if there are updated drivers available for your system. At the very least, reach out to @chris-short for help here.
+
+![Settings -> Video](img/720p-settings-video-resolution.png)
+
 TODO:
 
-* Sound settings?
 * Streaming key acquisition
 * Scenes and more assets (D. Russo helping with animations)
 * Add more resources, hints, and refined settings
