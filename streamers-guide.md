@@ -53,6 +53,8 @@ TODO: open source this guide or some version of it
 
 All assets that are consumed by OBS for the stream are in the [**streaming-tools**](https://github.com/cloud-platforms-streaming/streaming-tools) repo
 
+Note: For Fedora users, the RPMFusion OBS should be used as the Flatpak has some issues with the required plugins.
+
 ### OBS Resources
 
 * [OBS Forum Resources](https://obsproject.com/forum/resources/)
@@ -67,6 +69,9 @@ This is a common error usually related to the stress that video encoding is putt
 Downscaling the output resolutions to 720p is the biggest thing that can be done to fix this. Also, reducing the frame rate to 30 fps helps.
 
 ![Settings -> Video](img/settings-video-resolution.png)
+
+#### (Linux) Browser Plugin
+In order to use various overlays and alerts on Twitch, a browser plugin is available. This plugin does not ship for Fedora and must be installed. Other operating systems already have a browser plugin packaged. For Fedora, simply follow the [binary release installation instructions](https://github.com/bazukas/obs-linuxbrowser#installing-binary-release).
 
 #### x264 CPU Usage Preset
 
