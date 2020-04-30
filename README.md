@@ -14,7 +14,7 @@ All we ask is that you be able to join a Zoom call. We'd like you to be on a web
 
 That's it! Join us and share your knowledge and experience.
 
-If you're a regular guest you might want to consider acquiring equipment that we suggest in the [Streaming Guide](streamers-guide.md)
+If you're a regular guest you might want to consider acquiring equipment that we suggest in the [Streamers Guide](streamers-guide.md)
 
 ### Producers
 
