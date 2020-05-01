@@ -6,6 +6,8 @@ A great part about [Twitch](https://www.twitch.tv/) and other streaming platform
 
 Three main roles need to be played to do a stream. Guests, Producers, and Streamers. In reality, one person can do a stream by themselves. But, we call out these specific personas because they all have some requirements and responsibilities.
 
+The number one rule of all these personas is the be authentic and transparent. Be you, be real. It's okay to make some mistakes during the live streams, that makes it very real for folks.
+
 ### Guests
 
 Congrats! You're the star of the show! You've made it to a league, the size of which is to be determined. We want you to have the best experience possible. We want you to have fun and be the best version of you that you can be. Thank you for joining our stream.
