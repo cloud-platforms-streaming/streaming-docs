@@ -53,12 +53,14 @@ TODO: open source this guide or some version of it
 
 All assets that are consumed by OBS for the stream are in the [**streaming-tools**](https://github.com/cloud-platforms-streaming/streaming-tools) repo
 
-Note: For Fedora users, the RPMFusion OBS should be used as the Flatpak has some issues with the required plugins.
+### OBS Quick References
 
-### OBS Resources
+Note: For Fedora users, the RPMFusion OBS should be used as the Flatpak has some issues with the required plugins.
 
 * [OBS Forum Resources](https://obsproject.com/forum/resources/)
 * [General Performance And Encoding Issues](https://obsproject.com/wiki/General-Performance-and-Encoding-Issues)
+* [Streaming with Open Broadcaster in YouTube (LinkedIn Learning)](https://www.linkedin.com/learning/learning-video-live-streaming/streaming-with-open-broadcaster-in-youtube)
+* [GPU Overload Issues](https://obsproject.com/wiki/GPU-overload-issues)
 
 ### OBS Scene Creation
 
@@ -83,7 +85,11 @@ In order to use various overlays and alerts on Twitch, a browser plugin is avail
 
 #### x264 CPU Usage Preset
 
+If your on stream video is laggy, lagging significantly, or jittering tuning the x264 CPU Usage preset on your device might help.
+
 You should be using a setting of veryfast, superfast, or ultrafast. The higher the setting the better performance. But, the lower the quality too. This is device-specific; testing is required. "The image may look a bit blockier or pixelated, but you will be able to retain your resolution/fps."
+
+There is also a worthwhile **Tune** option in the Output settings. If you're streaming content, configuring the x264 Tune option to `zerolatency` should help performance.
 
 ![Settings -> Output -> Streaming](img/settings-output-streaming.png)
 
