@@ -55,6 +55,8 @@ All assets that are consumed by OBS for the stream are in the [**streaming-tools
 
 ### OBS Quick References
 
+Note: For Fedora users, the RPMFusion OBS should be used as the Flatpak has some issues with the required plugins.
+
 * [OBS Forum Resources](https://obsproject.com/forum/resources/)
 * [General Performance And Encoding Issues](https://obsproject.com/wiki/General-Performance-and-Encoding-Issues)
 * [Streaming with Open Broadcaster in YouTube (LinkedIn Learning)](https://www.linkedin.com/learning/learning-video-live-streaming/streaming-with-open-broadcaster-in-youtube)
@@ -77,6 +79,9 @@ For those comfortable with photo editing, this might feel a little awkward, but 
 **Broadcasting in 1080p at 30 fps** is the goal. To get that set up, Open Settings, Video. Then make sure the settings are for 1920x1080 and 30 fps.
 
 ![Settings -> Video](img/1080p-settings-video-resolution.png)
+
+#### (Linux) Browser Plugin
+In order to use various overlays and alerts on Twitch, a browser plugin is available. This plugin does not ship for Fedora and must be installed. Other operating systems already have a browser plugin packaged. For Fedora, simply follow the [binary release installation instructions](https://github.com/bazukas/obs-linuxbrowser#installing-binary-release).
 
 #### x264 CPU Usage Preset
 
