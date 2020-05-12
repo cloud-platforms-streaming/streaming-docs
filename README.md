@@ -20,7 +20,7 @@ If you're a regular guest you might want to consider acquiring equipment that we
 
 ### Producers
 
-"Producers" are the term for the folks that are managing the Twitch channel itself. There are many ways to interact with the audience,  including chat, that are available to the Producers to provide a great experience.
+"Producers" are the term for the folks that are managing the Twitch channel itself. There are many ways to interact with the audience, including chat, that are available to the Producers to provide a great experience.
 
 TODO: Document extensions that are added to Twitch
 
@@ -32,6 +32,8 @@ One of the more important things is making sure the stream is adhering to commun
 * [Twitter Rules and policies](https://help.twitter.com/en/rules-and-policies#twitter-rules)  
 Summary: Be excellent to everyone.
 
+Producers are also the ones making sure we adhere to the [Rules for Streaming]()
+
 ### Streamers
 
 Streamers are the ones that mux everything together out to the internet. Streamers are the folks that are responsible for getting everyone that's joined a Zoom call, adding in any customizations via [OBS](http://obsproject.com/), and streaming that feed out to the internet.
@@ -41,3 +43,12 @@ Streamers are the folks that will be the ones making sure the content lands on T
 There are some requirements though for streaming that are best-maintained separate from this README.md.
 
 [**Streamers Guide**](streamers-guide.md)
+
+## Rules for Streaming
+
+Fun and natural but professional is the goal. The channel is not marked as mature on any platform so please be cognizant of language and environment.
+
+* Read the Community Guidelines because they are very different than what you might think (like [Music](https://www.twitch.tv/p/legal/community-guidelines/music/))
+* Contribute to the docs and assets: https://github.com/cloud-platforms-streaming
+* Don't get into open source drama/politics/etc. (Example: Chris Short will not be talking about behind the scenes CNCF goings-on)
+* Don't knock competing projects and products (we all know this but, let's continue to stay above board here)
