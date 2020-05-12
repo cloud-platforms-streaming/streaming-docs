@@ -26,13 +26,15 @@ TODO: Document extensions that are added to Twitch
 
 One of the more important things is making sure the stream is adhering to community guidelines and make the experience fun and enjoyable for everyone on the stream.
 
+#### Community Guidelines
+
 * [Twitch Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/)
 * [YouTube Policies and Safety](https://www.youtube.com/about/policies/#community-guidelines)
 * [FaceBook Community Standards](https://www.facebook.com/communitystandards/)  
 * [Twitter Rules and policies](https://help.twitter.com/en/rules-and-policies#twitter-rules)  
 Summary: Be excellent to everyone.
 
-Producers are also the ones making sure we adhere to the [Rules for Streaming]()
+Producers are also the ones making sure we adhere to the [Rules for Streaming](#rules-for-streaming)
 
 ### Streamers
 
@@ -48,7 +50,7 @@ There are some requirements though for streaming that are best-maintained separa
 
 Fun and natural but professional is the goal. The channel is not marked as mature on any platform so please be cognizant of language and environment.
 
-* Read the Community Guidelines because they are very different than what you might think (like [Music](https://www.twitch.tv/p/legal/community-guidelines/music/))
-* Contribute to the docs and assets: https://github.com/cloud-platforms-streaming
+* Read the [Community Guidelines](#community-guidelines) because they are very different than what you might think (like [Music](https://www.twitch.tv/p/legal/community-guidelines/music/))
+* Please contribute to the docs and assets: https://github.com/cloud-platforms-streaming
 * Don't get into open source drama/politics/etc. (Example: Chris Short will not be talking about behind the scenes CNCF goings-on)
-* Don't knock competing projects and products (we all know this but, let's continue to stay above board here)
+* Don't knock competing projects and products (we all know this but, let's continue to stay above board here).
