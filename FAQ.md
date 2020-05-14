@@ -1,5 +1,7 @@
 # Red Hat Live Streaming Overview/FAQ
 
+Handy link to this doc: https://red.ht/streamfaq
+
 If this FAQ needs additional information, feel free to to submit a pull request or raise an issue.
 
 Why live streaming? The COVID-19 pandemic has affected almost every event on the planet. We need a better way to connect to customers, partners, contributors, and communities.
