@@ -74,24 +74,29 @@ For those comfortable with photo editing, this might feel a little awkward, but 
 
 ### OBS Settings (aka problems and how to fix them)
 
+#### (Linux) Browser Plugin
+
+In order to use various overlays and alerts on Twitch, a browser plugin is available. This plugin does not ship for Fedora and must be installed. Other operating systems already have a browser plugin packaged. For Fedora, simply follow the [binary release installation instructions](https://github.com/bazukas/obs-linuxbrowser#installing-binary-release).
+
 #### Video Settings
 
-**Broadcasting in 1080p at 30 fps** is the goal. To get that set up, Open Settings, Video. Then make sure the settings are for 1920x1080 and 30 fps.
+**Broadcasting in 1080p at 30 fps** is the goal. To get that set up, Open Settings, Video. Then make sure the settings are for 1080p (1920x1080) and 30 fps.
 
 ![Settings -> Video](img/1080p-settings-video-resolution.png)
-
-#### (Linux) Browser Plugin
-In order to use various overlays and alerts on Twitch, a browser plugin is available. This plugin does not ship for Fedora and must be installed. Other operating systems already have a browser plugin packaged. For Fedora, simply follow the [binary release installation instructions](https://github.com/bazukas/obs-linuxbrowser#installing-binary-release).
 
 #### x264 CPU Usage Preset
 
 If your on stream video is laggy, lagging significantly, or jittering tuning the x264 CPU Usage preset on your device might help.
 
-You should be using a setting of veryfast, superfast, or ultrafast. The higher the setting the better performance. But, the lower the quality too. This is device-specific; testing is required. "The image may look a bit blockier or pixelated, but you will be able to retain your resolution/fps."
+The bitrate should be set to 6000 Kbps due to the 1080p@30fps requirement. This bitrate is the amount of data you send when you stream. If you have an upload speed of less than 6000 Kbps, you should not be a [Streamer](https://github.com/cloud-platforms-streaming/streaming-docs#streamers).
+
+You should be using a setting of veryfast (but superfast or ultrafast might be necessary depending on your setup). The higher the setting the better performance. But, the lower the quality; there's a sacrifice. This is device-specific; testing is required. "The image may look a bit blockier or pixelated, but you will be able to retain your resolution/fps."
 
 There is also a worthwhile **Tune** option in the Output settings. If you're streaming content, configuring the x264 Tune option to `zerolatency` should help performance.
 
 ![Settings -> Output -> Streaming](img/settings-output-streaming.png)
+
+Reference: [Twitch Broadcasting Guidelines](https://stream.twitch.tv/encoding/)
 
 #### Sound Settings
 
@@ -105,7 +110,9 @@ General OBS sound settings should be set to 48 kHz and Stereo. Some services sup
 
 This is a common error usually related to the stress that video encoding is putting on the system.
 
-Downscaling the output resolutions to 720p is the biggest thing that can be done to fix this. This is a huge sacrifice to video quality though. Try to see if there are updated drivers available for your system. At the very least, reach out to @chris-short for help here.
+Downscaling the output resolutions to 720p is the biggest thing that can be done to fix this. This is a huge sacrifice to video quality though.
+
+Try to see if there are updated drivers available for your system. At the very least, reach out to @chris-short for help here because ***720p isn't good***.
 
 ![Settings -> Video](img/720p-settings-video-resolution.png)
 
@@ -113,4 +120,4 @@ TODO:
 
 * Streaming key acquisition
 * Scenes and more assets (D. Russo helping with animations)
-* Add more resources, hints, and refined settings
+* Add more resources, hints, and refined settings (almost done)
