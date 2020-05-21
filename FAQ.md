@@ -28,6 +28,9 @@ Please use the OpenShift Twitch Stream Topic Proposal Form. We are very welcomin
 OpenShift Twitch Stream Topic Proposal Form:
 https://red.ht/streamform (Red Hat employees only)
 
+OpenShift Twitch Public Feedback Form:
+https://red.ht/stream-feedback (public, partners, customers, etc.)
+
 **NOTE**: Twitch prefers longer streams. We’ve been told that at around the 2.5+ hours point, the Twitch algorithm will start showing us some love. With that being said, we will happily do streams one-hour in length or more.
 
 ## What are the needed roles to stream?
@@ -50,13 +53,13 @@ Equipment Suggestions: [Streaming Equipment](pdf/streaming-equipment.pdf)
 
 ## Can I run pre-recorded content?
 
-Yes. But, let’s make sure it fits the platform and desired human connection. Please use the [OpenShift Twitch Stream Topic Proposal Form](https://red.ht/streamform) (Red Hatters-only).
+Yes. But, let’s make sure it fits the platform and desired human connection. Please use the [OpenShift Twitch Stream Topic Proposal Form](https://red.ht/streamform) (Red Hat employees only) or [OpenShift Twitch Channel Public Feedback](https://red.ht/stream-feedback).
 
 ## Can I run pre-recorded content [MST3000](https://en.wikipedia.org/wiki/Mystery_Science_Theater_3000)-style?
 
 Yes. In fact, if it is pre-recorded, this is our preferred model. However, ensure that the content you want to comment on is public and either re-streamable (copyright).  You must have permission to restream this content. For example, call the NFL if you want to talk over footage from a football game.
 
-Please use the [OpenShift Twitch Stream Topic Proposal Form](https://red.ht/streamform) (Red Hatters-only).
+Please use the [OpenShift Twitch Stream Topic Proposal Form](https://red.ht/streamform) (Red Hat employees only) or [OpenShift Twitch Channel Public Feedback Form](https://red.ht/stream-feedback).
 
 ## I am lazy, can you give me a template to send to Red Hatters about the stream?
 

@@ -2,6 +2,11 @@
 
 A great part about [Twitch](https://www.twitch.tv/) and other streaming platforms is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a chat, streaming it, adding graphics to the stream, etc. things can get complicated.
 
+## Have an idea for a live stream?
+
+Red Hat Employees: https://red.ht/streamform
+Public, Customers, Partners, Contributors, etc: https://red.ht/stream-feedback
+
 ## Personas
 
 Three main roles need to be played to do a stream. Guests, Producers, and Streamers. In reality, one person can do a stream by themselves. But, we call out these specific personas because they all have some requirements and responsibilities.
