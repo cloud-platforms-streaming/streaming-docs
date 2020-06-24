@@ -4,8 +4,7 @@ A great part about [Twitch](https://www.twitch.tv/) and other streaming platform
 
 ## Have an idea for a live stream?
 
-Red Hat Employees: https://red.ht/streamform  
-Public, Customers, Partners, Contributors, etc: https://red.ht/stream-feedback
+https://red.ht/streamform  
 
 ## Personas
 
