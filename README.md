@@ -58,3 +58,25 @@ Fun and natural but professional is the goal. The channel is not marked as matur
 * Please contribute to the docs and assets: https://github.com/cloud-platforms-streaming
 * Don't get into open source drama/politics/etc. (Example: Chris Short will not be talking about behind the scenes CNCF goings-on)
 * Don't knock competing projects and products (we all know this but, let's continue to stay above board here).
+
+## Streaming Calendar
+
+We maintain an externally facing Google Calendar that can be shared freely and subscribed to at: https://red.ht/streamcal
+
+This calendar is managed by openshift.tv Executive Producers, Producers, and those involved with marketing events in the calendar. No other individuals should be granted access as this is a public facing asset for the business.
+
+Executive Producers will be able to "Make changes and manage sharing" while Producers will have their permissions set to "Make changes to events" so that better security controls are in place on this resource.
+
+### Adding events as a non-Producer
+
+If you are a regular host and are booking shows, be sure to add redhatstreaming AT gmail to your invite. It might also be prudent to add your produder.
+
+### Show changes/problems, calendar conflicts and show prioritization
+
+As all showrunning and channel content is the responsibility of the Executive Producers, it will be the responsibility of the Executive Producers to maintain the state of the calendar and continue to feed content into it. As such, they are in charge of deconflicting the calendar, prioritizing content, and in some cases will have to determine what goes on air when.
+
+If you are hosting a previously scheduled show, all changes need to be presented to at least one Executive Producer ten (10) business days prior.
+
+If you are hosting a previously schedule show and on the day of something goes wrong (presenter power outage, connectivity issues, etc.). You must inform an Executive Producer immediately to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to make a determination on the spot to postpone or continue on.
+
+Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters on the line.
