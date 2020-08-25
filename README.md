@@ -73,10 +73,10 @@ If you are a regular host and are booking shows, be sure to add redhatstreaming 
 
 ### Show changes/problems, calendar conflicts and show prioritization
 
-As all showrunning and channel content is the responsibility of the Executive Producers, it will be the responsibility of the Executive Producers to maintain the state of the calendar and continue to feed content into it. As such, they are in charge of deconflicting the calendar, prioritizing content, and in some cases will have to determine what goes on air when.
+As all showrunning and channel content is the Executive Producers' responsibility, it will be the Executive Producers' responsibility to maintain the state of the calendar and continue to feed content into it. As such, Executive Producers are in charge of deconflicting the calendar, prioritizing content, and in some cases, will have to determine what goes on air when. This responsibility does not come lightly as it requires balancing the organization's needs with the needs of the channel. Executive producers can revoke rights if they are being abused/misused/etc. without notice.
 
-If you are hosting a previously scheduled show, all changes need to be presented to at least one Executive Producer ten (10) business days prior.
+If you are hosting a previously scheduled show, all-time/date changes need to be presented to at least one Executive Producer ten (10) business days prior. If the change is feasible, we'll work with you but, moving an existing show for your change is unlikely to happen unless customers are involved.
 
-If you are hosting a previously schedule show and on the day of something goes wrong (presenter power outage, connectivity issues, etc.). You must inform an Executive Producer immediately to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to make a determination on the spot to postpone or continue on.
+If you are hosting a previously schedule show and on the day of something goes wrong (presenter power outage, connectivity issues, etc.). You must inform an Executive Producer immediately to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for the technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to decide on the spot to postpone or continue.
 
-Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters on the line.
+Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters.
