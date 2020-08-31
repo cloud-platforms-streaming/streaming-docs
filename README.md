@@ -69,14 +69,14 @@ Executive Producers will be able to "Make changes and manage sharing" while Prod
 
 ### Adding events as a non-Producer
 
-If you are a regular host and are booking shows, be sure to add redhatstreaming AT gmail to your invite. It might also be prudent to add your produder.
+If you are a regular host and are booking shows, be sure to add redhatstreaming AT gmail to your invite. It might also be prudent to add your producer.
 
 ### Show changes/problems, calendar conflicts and show prioritization
 
-As all showrunning and channel content is the responsibility of the Executive Producers, it will be the responsibility of the Executive Producers to maintain the state of the calendar and continue to feed content into it. As such, they are in charge of deconflicting the calendar, prioritizing content, and in some cases will have to determine what goes on air when.
+As part of the Executive Producer’s responsibilities, they will need to maintain the calendar with up to date information as part of this they will need to resolve any conflicts, prioritize content, and determine what goes on the air. At times, the Executive Producer will need to balance organizational needs vs channel needs. Producers generally have rights to the public streaming calendar, however, those rights can be revoked without notice in cases of abuse/misuse/etc.
 
-If you are hosting a previously scheduled show, all changes need to be presented to at least one Executive Producer ten (10) business days prior.
+In the case of a previously scheduled show, any time/date changes need to be shared with at least one Executive Producer 10 days prior to the originally scheduled date. All efforts will be made to accommodate the change but existing shows will have priority unless customers are involved.
 
-If you are hosting a previously schedule show and on the day of something goes wrong (presenter power outage, connectivity issues, etc.). You must inform an Executive Producer immediately to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to make a determination on the spot to postpone or continue on.
+In the case of an emergency (presenter power outage, connectivity issues, etc.) on the day of a scheduled show, you will need to contact an Executive Producer as soon as possible to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for the technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to decide on the spot to postpone or continue. 
 
-Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters on the line.
+Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters.
