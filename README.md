@@ -69,7 +69,7 @@ Executive Producers will be able to "Make changes and manage sharing" while Prod
 
 ### Adding events as a non-Producer
 
-If you are a regular host and are booking shows, be sure to add redhatstreaming AT gmail to your invite. It might also be prudent to add your produder.
+If you are a regular host and are booking shows, be sure to add redhatstreaming AT gmail to your invite. It might also be prudent to add your producer.
 
 ### Show changes/problems, calendar conflicts and show prioritization
 
