@@ -1,6 +1,6 @@
 # Streaming Docs
 
-A great part about [Twitch](https://www.twitch.tv/) and other streaming platforms is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a chat, streaming it, adding graphics to the stream, etc. things can get complicated.
+A great part about streaming platforms is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a chat, streaming it, adding graphics to the stream, etc. things can get complicated. In practice, we try to keep things simple. In reality, live streaming is a learned skill and there's a lot of ways to get to the same outcome. These docs aim to help educate others about how [openshift.tv](https://openshift.tv) is run.
 
 ## Have an idea for a live stream?
 
@@ -46,9 +46,7 @@ Streamers are the ones that mux everything together out to the internet. Streame
 
 Streamers are the folks that will be the ones making sure the content lands on Twitch/YouTube/Facebook/Twitter/etc.
 
-There are some requirements though for streaming that are best-maintained separate from this README.md.
-
-[**Streamers Guide**](streamers-guide.md)
+There are some requirements though for streaming that are best-maintained separate from this README.md in the [**Streamers Guide**](streamers-guide.md).
 
 ## Rules for Streaming
 
@@ -77,6 +75,6 @@ As part of the Executive Producer’s responsibilities, they will need to mainta
 
 In the case of a previously scheduled show, any time/date changes need to be shared with at least one Executive Producer 10 days prior to the originally scheduled date. All efforts will be made to accommodate the change but existing shows will have priority unless customers are involved.
 
-In the case of an emergency (presenter power outage, connectivity issues, etc.) on the day of a scheduled show, you will need to contact an Executive Producer as soon as possible to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for the technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to decide on the spot to postpone or continue. 
+In the case of an emergency (presenter power outage, connectivity issues, etc.) on the day of a scheduled show, you will need to contact an Executive Producer as soon as possible to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for the technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to decide on the spot to postpone or continue.
 
 Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters.

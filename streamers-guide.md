@@ -4,7 +4,7 @@ Streamers are the ones that mux everything together out to the internet. Streame
 
 Streamers are the ones that will be making sure the content lands on Twitch/YouTube/Facebook/Twitter/etc.
 
-**Some requirements must be met to stream.**
+**Some requirements must be met to stream.** As such we have [a series of producers](continuity.md) to help cover the needs of the channel.
 
 ## Bandwidth
 
