@@ -8,7 +8,9 @@ Streamers are the ones that will be making sure the content lands on Twitch/YouT
 
 ## Bandwidth
 
-If you have a lower end upload speed, streaming is possible but 720p and 1080p streams require at least 5 Mbps of upload bandwidth. Keep in mind, other things on your network contend for this bandwidth. While we don't intend to stream in 4K, it's worth mentioning, the upload bandwidth requirements for broadcasting 4K video is 25 Mbps.
+If you have a lower end upload speed, streaming is possible but 720p and 1080p streams require at least 5 Mbps of upload bandwidth. Keep in mind, other things on your network contend for this bandwidth. Also, you'll be watching the stream too which takes additional bandwidth. It racks up fast so your mileage may vary.
+
+While we don't intend to stream in 4K, it's worth mentioning, the upload bandwidth requirements for broadcasting 4K video is 25 Mbps.
 
 ## Equipment
 
@@ -26,13 +28,7 @@ Computer A will be the box from which you speak, present, etc. to the audience o
 
 Computer B will be the machine that runs [OBS](https://obsproject.com/) to broadcast the Zoom call to the streaming platform(s). This computer should be able to handle the demand of encoding video feeds and streaming them. For example, an 8th generation Intel i3 is the minimum platform being recommended.
 
-The good news is there are other people capable of doing the streaming on your behalf, so do not feel like you have to do it all yourself.
-
-These streamers include:
-
-* @chris-short
-* @thoraxe
-* TODO: Add more streamers
+The good news is there are other people that have figured this out, so do not feel like you have to do it all yourself. If you have questions, ask away in an Issue or PR (or DM is fine too).
 
 ### Equipment suggestions
 
@@ -88,7 +84,7 @@ In order to use various overlays and alerts on Twitch, a browser plugin is avail
 
 If your on stream video is laggy, lagging significantly, or jittering tuning the x264 CPU Usage preset on your device might help.
 
-The bitrate should be set to 6000 Kbps due to the 1080p@30fps requirement. This bitrate is the amount of data you send when you stream. If you have an upload speed of less than 6000 Kbps, you should not be a [Streamer](https://github.com/cloud-platforms-streaming/streaming-docs#streamers).
+The bitrate should be set to 4500 Kbps due to the 1080p@30fps requirement. This bitrate is the amount of data you send when you stream. If you have an upload speed of less than 4500 Kbps, you should not be a [Streamer](https://github.com/cloud-platforms-streaming/streaming-docs#streamers).
 
 You should be using a setting of veryfast (but superfast or ultrafast might be necessary depending on your setup). The higher the setting the better performance. But, the lower the quality; there's a sacrifice. This is device-specific; testing is required. "The image may look a bit blockier or pixelated, but you will be able to retain your resolution/fps."
 

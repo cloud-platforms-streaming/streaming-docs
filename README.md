@@ -78,3 +78,9 @@ In the case of a previously scheduled show, any time/date changes need to be sha
 In the case of an emergency (presenter power outage, connectivity issues, etc.) on the day of a scheduled show, you will need to contact an Executive Producer as soon as possible to reschedule. Do not try to pull off heroics to get on a live stream. We can always apologize for the technical difficulties and reschedule. If there are issues with a streaming service itself, the show's producer will have to decide on the spot to postpone or continue.
 
 Shows involving outside or external guests/partners/customers will always take precedence over shows with only Red Hatters.
+
+### Continuity Plan
+
+If you plan on being out for prescheduled shows please find a replacement for yourself early. Be sure they have the same invites you have, and definitely check-in with them the day before to make sure they realize what year it is.
+
+[Continuity Plan](https://github.com/cloud-platforms-streaming/streaming-docs/blob/master/continuity.md#continuity-plan)
