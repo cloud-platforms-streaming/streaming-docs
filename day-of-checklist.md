@@ -21,6 +21,8 @@ It's encouraged to test streaming with your own account(s) to get the hang of it
 1. Make sure Side by Side in Zoom Settings is enabled (buried in Zoom settings)
 1. Make sure you’re in Gallery View (not available until two people are on call)
 1. Make sure font sizes look good when screen sharing
+1. Update the title and description of the show in [Restream](https://app.restream.io/titles) (note: happens immediately; will impact content that's currently on air)
+1. Make sure all the destinations are set correctly in [Restream](https://restream.io/channel) (note: the only thing that should be off is the Custom RTMP destination; that's for DevNation)
 1. About 3-5 minutes before the scheduled stream start time; click Start Streaming on the “Starting Soon” Scene (unless of course you're still cat herding in which case it is recommend hitting the Starting Soon animation at the start time).
 
 TODO: Need to figure out auto scene switcher and the auto unmutes
