@@ -13,7 +13,7 @@ Currently [Chris Short](https://github.com/chris-short) streams and produces (as
 
 As mentioned, these folks aren't doing this regularly as part of their day-to-day jobs. They are trained and technical folks but, please don't consider them as go to folks for producing bespoke shows or series.
 
-Please use the [OpenShift Twitch Stream Topic Proposal](https://red.ht/streamform) form to propose topics for the channel.
+Please use the [OpenShift Stream Topic Proposal](https://red.ht/streamform) form to propose topics for the channel.
 
 ## Process
 

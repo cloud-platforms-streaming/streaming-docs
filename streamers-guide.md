@@ -18,7 +18,7 @@ Keep in mind; you can stream and participate with a wide variety of devices and 
 
 ### Two computer set up
 
-Streamers will need to consider how they will both broadcast a stream while participating in it (either in Twitch and/or Zoom). While this is possible with a powerful enough setup, many Streamers choose to use two computers; one to stream the OBS feed and the other to participate in the Zoom call/Twitch.
+Streamers will need to consider how they will both broadcast a stream while participating in it (either in one of the streaming platforms and/or Zoom). While this is possible with a powerful enough setup, many Streamers choose to use two computers; one to stream the OBS feed and the other to participate in the Zoom call and streaming platforms.
 
 #### Computer A
 
