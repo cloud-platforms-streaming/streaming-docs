@@ -24,9 +24,9 @@ If you're a regular guest you might want to consider acquiring equipment that we
 
 ### Producers
 
-"Producers" are the term for the folks that are managing the Twitch channel itself. There are many ways to interact with the audience, including chat, that are available to the Producers to provide a great experience.
+"Producers" are the term for the folks that are managing the channel during the show. There are many ways to interact with the audience, including chat, that are available to the Producers to provide a great experience.
 
-TODO: Document extensions that are added to Twitch
+TODO: Document extensions that are added to broadcast (Streamlabs integrations)
 
 One of the more important things is making sure the stream is adhering to community guidelines and make the experience fun and enjoyable for everyone on the stream.
 

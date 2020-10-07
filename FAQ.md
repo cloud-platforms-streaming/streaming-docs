@@ -8,10 +8,11 @@ Why live streaming? The COVID-19 pandemic has affected almost every event on the
 
 The ideal situation is that this connection point remains a very natural and human experience. Think of it as a TV show with a live studio audience (in the form of chat) for all things Kubernetes and OpenShift but, a more relaxed environment where people are human and relatable.
 
-## What’s our Twitch URL?
+## What’s our URL?
 
-Shortened: https://red.ht/twitch  
-Direct: https://www.twitch.tv/redhatopenshift
+Please use [openshift.tv](https://openshift.tv).
+
+It contains all the platforms we're currently streaming to as well as the calendar. This allows everyone to choose the setup that works best for them.
 
 ## Is there a public calendar?
 
@@ -23,12 +24,10 @@ You can add this calendar to your own by clicking the “+Google Calendar” ico
 
 ## Have an idea for a live stream?
 
-Please use the OpenShift Twitch Stream Topic Proposal Form. We are very welcoming of streams that involve customers, upstream contributors, Accelerators, Partners, etc. Please use the form to act as a steward and/or handoff from outside the company to inside.
+Please use the OpenShift.tv Topic Proposal Form. We are very welcoming of streams that involve customers, upstream contributors, Accelerators, Partners, etc. Please use the form to act as a steward and/or handoff from outside the company to inside.
 
-OpenShift Twitch Stream Topic Proposal Form:
+OpenShift.tv Topic Proposal Form:
 https://red.ht/streamform
-
-**NOTE**: Twitch prefers longer streams. We’ve been told that at around the 2.5+ hours point, the Twitch algorithm will start showing us some love. With that being said, we will happily do streams one-hour in length or more.
 
 ## What are the needed roles to stream?
 
@@ -50,27 +49,21 @@ Equipment Suggestions: [Streaming Equipment](pdf/streaming-equipment.pdf)
 
 ## Can I run pre-recorded content?
 
-Yes. But, let’s make sure it fits the platform and desired human connection. Please use the [OpenShift Twitch Stream Topic Proposal Form](https://red.ht/streamform).
-
-## Can I run pre-recorded content [MST3000](https://en.wikipedia.org/wiki/Mystery_Science_Theater_3000)-style?
-
-Yes. In fact, if it is pre-recorded, this is our preferred model. However, ensure that the content you want to comment on is public and either re-streamable (copyright).  You must have permission to restream this content. For example, call the NFL if you want to talk over footage from a football game.
-
-Please use the [OpenShift Twitch Stream Topic Proposal Form](https://red.ht/streamform).
+Always live is our mantra but, some pre-recorded content in the stream is possible. Please use the [OpenShift.tv Topic Proposal Form](https://red.ht/streamform) to submit your idea.
 
 ## I am lazy, can you give me a template to send to Red Hatters about the stream?
 
 Hi!
 
-The new [Red Hat OpenShift Twitch stream][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please [submit them][3]! If you have any questions, we have a full [FAQ][4].
+Red Hat's [openshift.tv][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please [submit them][3]! If you have any questions, we have a full [FAQ][4].
 
 ## I am lazy, can you give me a template to send to non-Red Hatters about the stream?
 
 Hi!
 
-The new [Red Hat OpenShift Twitch stream][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please let me know!
+Red Hat's [openshift.tv][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please let me know!
 
-[1]: https://red.ht/twitch
+[1]: https://openshift.tv
 [2]: https://red.ht/streamcal
 [3]: https://red.ht/streamform
 [4]: https://red.ht/streamfaq
