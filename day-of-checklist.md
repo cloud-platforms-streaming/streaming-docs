@@ -18,7 +18,7 @@ It's encouraged to test streaming with your own account(s) to get the hang of it
 1. Check your OBS scenes are configured correctly. Zoom launches two windows; make sure the right Zoom window is slecteed in the Main Zoom Scenes -> Mac/Linux Zoom Window
 1. Rotate through the scenes make sure you're seeing what is expected
 1. Get everyone on Zoom EARLY so you can test their setups, font sizes, screen sharing, etc.
-1. Make sure Side by Side in Zoom Settings is enabled (buried in Zoom settings)
+1. Make sure Side by Side in Zoom Settings is enabled (buried in Zoom Screen Sharing settings)
 1. Make sure you’re in Gallery View (not available until two people are on call)
 1. Make sure font sizes look good when screen sharing
 1. Update the title and description of the show in [Restream](https://app.restream.io/titles) (note: happens immediately; will impact content that's currently on air)
