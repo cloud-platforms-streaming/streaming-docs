@@ -48,6 +48,12 @@ Streamers are the folks that will be the ones making sure the content lands on T
 
 There are some requirements though for streaming that are best-maintained separate from this README.md in the [**Streamers Guide**](streamers-guide.md).
 
+#### Bot Commands
+
+There are various bot commands (or as Restream calls them, "Reply commands") that are available for use during live streams. These commands can be used to drive people to useful assets, sites, previous episodes, etc.
+
+Bot Commands
+
 ## Rules for Streaming
 
 Fun and natural but professional is the goal. The channel is not marked as mature on any platform so please be cognizant of language and environment.
