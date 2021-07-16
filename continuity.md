@@ -6,10 +6,10 @@ As of 2020-09-28
 
 Currently [Chris Short](https://github.com/chris-short) streams and produces (as well as, hosts as needed) the majority of shows on [openshift.tv](https://openshift.tv). But, in case Chris is unavailable due to technical or other issues we've lined up the following folks to help cover the [Streamers](https://github.com/cloud-platforms-streaming/streaming-docs#streamers) and [Producers](https://github.com/cloud-platforms-streaming/streaming-docs/blob/master/README.md#producers) responsibilities. Please understand, this isn't their full time responsibility and when working together, more communication is better than less:
 
-* Erik Jacobs ([thoaraxe](https://github.com/thoraxe))  
-* Langdon White ([langdon](https://github.com/langdon))  
-* Ryan Jarvinen ([ryanj](https://github.com/ryanj))  
-* Brian Tannous ([btannous](https://github.com/btannous))
+*   Erik Jacobs ([thoaraxe](https://github.com/thoraxe))
+*   Andrew Sullivan ([acsulli](https://github.com/acsulli))
+*   Ryan Jarvinen ([ryanj](https://github.com/ryanj))
+*   Brian Tannous ([btannous](https://github.com/btannous))
 
 As mentioned, these folks aren't doing this regularly as part of their day-to-day jobs. They are trained and technical folks but, please don't consider them as go to folks for producing bespoke shows or series.
 
