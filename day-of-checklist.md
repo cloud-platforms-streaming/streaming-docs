@@ -33,7 +33,7 @@
 1. Ask participants to be quiet
 1. Switch Scenes to the Intro Bumper
 1. Once Intro Bumper plays, switch to the Main Zoom Scene
-1. You're not live!
+1. You're now live!
 
 ## Ending the stream
 
