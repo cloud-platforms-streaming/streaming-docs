@@ -16,7 +16,8 @@
 1. Download the streaming-tools repo (put it in /opt/ on Linux/macOS or C:\ for Windows)
 1. Linux users: Install the [Linux Browser plugin](https://github.com/cloud-platforms-streaming/streaming-docs/blob/master/streamers-guide.md#linux-browser-plugin)
 1. Check your OBS scenes are configured correctly. Zoom launches two windows; make sure the right Zoom window is selected in the Main Zoom Scenes -> Mac/Linux Zoom Window
-1. Rotate through the scenes; make sure you're seeing what is expected
+1. Note: If you're using PrimeTime, open a browser window and go to the URL for the event. You can use the "OpenShift_What's_New" Scene Collection in OBS for anything non-Commons on BlueJeans Primetime (Commons has their own scene collection).
+1. Rotate through the scenes; make sure you're seeing what is expected. OBS will automatically tell you if an asset is missing when you switch to the scene. All assets are in the streaming-tools repo.
 1. Get everyone on Zoom EARLY so you can test their setups, font sizes, screen sharing, etc.
 1. Make sure Side by Side in Zoom Settings is enabled (buried in Zoom Screen Sharing settings)
 1. Make sure you're in Gallery View (not available until two people are on call)
