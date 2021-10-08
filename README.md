@@ -1,10 +1,14 @@
 # Streaming Docs
 
-A great part about streaming platforms is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a chat, streaming it, adding graphics to the stream, etc. things can get complicated. In practice, we try to keep things simple. In reality, live streaming is a learned skill and there's a lot of ways to get to the same outcome. These docs aim to help educate others about how [openshift.tv](https://openshift.tv) is run.
+A great part about streaming platforms is that you can stream from almost any device. This allows for more natural conversations. However, when you start pulling in multiple people for a chat, streaming it, adding graphics to the stream, etc. things can get complicated. In practice, we try to keep things simple. In reality, live streaming is a learned skill and there's a lot of ways to get to the same outcome. These docs aim to help educate others about how [Red Hat Livestreaming](https://red.ht/livestreaming) is run.
+
+Please note there is an internal Red Hat Livestreaming README doc that contains additional information that's unsafe to share publicly. Contact any producer
 
 ## Have an idea for a live stream?
 
-https://red.ht/streamform  
+This form will send your idea to the New Media Initiative for proper review.
+
+<https://red.ht/streamform>
 
 ## Personas
 
@@ -52,7 +56,7 @@ There are some requirements though for streaming that are best-maintained separa
 
 There are various bot commands (or as Restream calls them, "Reply commands") that are available for use during live streams. These commands can be used to drive people to useful assets, sites, previous episodes, etc.
 
-Bot Commands
+Refer to the Restream Chat settings to see all the available Reply Commands.
 
 ## Rules for Streaming
 
@@ -67,7 +71,7 @@ Fun and natural but professional is the goal. The channel is not marked as matur
 
 We maintain an externally facing Google Calendar that can be shared freely and subscribed to at: https://red.ht/streamcal
 
-This calendar is managed by openshift.tv Executive Producers, Producers, and those involved with marketing events in the calendar. No other individuals should be granted access as this is a public facing asset for the business.
+This calendar is managed by Red Hat Livestreaming Executive Producers, Producers, and those involved with marketing events in the calendar. No other individuals should be granted access as this is a public facing asset for the business.
 
 Executive Producers will be able to "Make changes and manage sharing" while Producers will have their permissions set to "Make changes to events" so that better security controls are in place on this resource.
 

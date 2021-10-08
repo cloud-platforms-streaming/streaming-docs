@@ -10,7 +10,7 @@ The ideal situation is that this connection point remains a very natural and hum
 
 ## What’s our URL?
 
-Please use [openshift.tv](https://openshift.tv).
+Please use [Red Hat Livestreaming](https://red.ht/livestreaming).
 
 It contains all the platforms we're currently streaming to as well as the calendar. This allows everyone to choose the setup that works best for them.
 
@@ -24,9 +24,9 @@ You can add this calendar to your own by clicking the “+Google Calendar” ico
 
 ## Have an idea for a live stream?
 
-Please use the OpenShift.tv Topic Proposal Form. We are very welcoming of streams that involve customers, upstream contributors, Accelerators, Partners, etc. Please use the form to act as a steward and/or handoff from outside the company to inside.
+Please use the Red Hat Livestreaming Topic Proposal Form. We are very welcoming of streams that involve customers, upstream contributors, Accelerators, Partners, etc. Please use the form to act as a steward and/or handoff from outside the company to inside.
 
-OpenShift.tv Topic Proposal Form:
+Red Hat Livestreaming Topic Proposal Form:
 https://red.ht/streamform
 
 ## What are the needed roles to stream?
@@ -49,21 +49,21 @@ Equipment Suggestions: [Streaming Equipment](pdf/streaming-equipment.pdf)
 
 ## Can I run pre-recorded content?
 
-Always live is our mantra but, some pre-recorded content in the stream is possible. Please use the [OpenShift.tv Topic Proposal Form](https://red.ht/streamform) to submit your idea.
+Always live is our mantra but, some pre-recorded content in the stream is possible. Please use the [Red Hat Livestreaming Topic Proposal Form](https://red.ht/streamform) to submit your idea.
 
 ## I am lazy, can you give me a template to send to Red Hatters about the stream?
 
 Hi!
 
-Red Hat's [openshift.tv][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please [submit them][3]! If you have any questions, we have a full [FAQ][4].
+Red Hat's [Red Hat Livestreaming][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please [submit them][3]! If you have any questions, we have a full [FAQ][4].
 
 ## I am lazy, can you give me a template to send to non-Red Hatters about the stream?
 
 Hi!
 
-Red Hat's [openshift.tv][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please let me know!
+Red Hat's [Red Hat Livestreaming][1] is awesome. Please check it out and sign up to follow it! You can find out the schedule on our [public calendar][2]. If you have your own ideas, please let me know!
 
-[1]: https://openshift.tv
+[1]: https://red.ht/livestreaming
 [2]: https://red.ht/streamcal
 [3]: https://red.ht/streamform
 [4]: https://red.ht/streamfaq
