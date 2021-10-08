@@ -26,9 +26,15 @@ Computer A will be the box from which you speak, present, etc. to the audience o
 
 #### Computer B
 
-Computer B will be the machine that runs [OBS](https://obsproject.com/) to broadcast the Zoom call to the streaming platform(s). This computer should be able to handle the demand of encoding video feeds and streaming them. For example, an 8th generation Intel i3 is the minimum platform being recommended.
+Computer B will be the machine that runs [OBS](https://obsproject.com/) to broadcast the Zoom call to the streaming platform(s). This computer should be able to handle the demand of encoding video feeds and streaming them. For example, an 8th generation Intel i3 is the bare minimum platform being recommended.
 
 The good news is there are other people that have figured this out, so do not feel like you have to do it all yourself. If you have questions, ask away in an Issue or PR (or DM is fine too).
+
+### Three device set up
+
+Building on the Two computer set up, you can also have a third computer that could be used as a remote client. This client device would be in charge of managing the system OBS is running on remotely. This reduces CPU usage on the computer being used to connect to Zoom so it those resources can be used to run demos from or do other screen sharing.
+
+This isn't a common use case, but it's possible and viable should you need it.
 
 ### Equipment suggestions
 

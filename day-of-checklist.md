@@ -4,7 +4,7 @@
 
 1. Pre-schedule the Zoom call (you'll need a paid account or someone with one)<sup>[1](#footnote1)</sup>
 1. Copy the invite details into a calendar invite including your Guests, Producer, and Streamer with a fifteen minute setup time buffer ahead of the event.
-1. Create an invite for the **public calendar**; include a description folks can use for social and add only redhatstreaming AT gmail DOT com to that invite. Include a link to [OpenShift.TV](https://openshift.tv) (NEVER share the Zoom details publicly<sup>[2](#footnote2)</sup>)
+1. Create an event for the **public calendar**; include a description folks can use for social and add only redhatstreaming AT gmail DOT com to that invite. Include a link to the YouTube video from the preferred channel as the location. It never hurts to include a link to <https://red.ht/twitch> in the description (NEVER share the Zoom details publicly<sup>[2](#footnote2)</sup>)
 1. A public calendar maintainer will make sure the invite for public consumption is published
 1. You need a stream key for OBS (or otherwise capable software); ask Erik Jacobs or Chris Short through official Red Hat channels (if you're using Restream Live this isn't an issue usually).
 
